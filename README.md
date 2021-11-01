@@ -7,3 +7,4 @@ conways game of life typeCA, with UI for better use
 
 -New seed feature, clear feature
   
+ 
